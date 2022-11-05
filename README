@@ -1,0 +1,5 @@
+This source code was used to generate the results presented in paper "Usage of Geometric Altitude for Radar Plot Position Improvements", H. Puhr, 2022.
+
+To run the source code, please edit the util/common.py settings and run with the following command:
+python3 geo_alt_rec.py
+
